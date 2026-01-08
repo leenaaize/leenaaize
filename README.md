@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome!
 
-My name is Leenaa Al-Amin. I am a Data Science postgrad student🙋‍♀️
+My name is Leenaa Al-Amin. I am a Data Science student🙋‍♀️
 
 <!--
 **leenaaize/leenaaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
