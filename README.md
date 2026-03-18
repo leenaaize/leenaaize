@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome!
 
-My name is Leenaa Al-Amin. I am a Data Science student at AltSchool Africa🙋‍♀️
+My name is Leenaa Al-Amin. I am a Data Analyst🙋‍♀️
 
 <!--
 **leenaaize/leenaaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
