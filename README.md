@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Welcome!
 
-My name is Leenaa Al-Amin. I am a Data Science Practitioner passionate about solving complex problems and uncovering impactful insights. A dedicated learner with a passion for Continuous Learning. I enjoy exploring new technologies and delivering meaningful, data-driven solutions.
+My name is Leenaa Al-Amin. I am a Data Science Practitioner passionate about solving complex problems and uncovering impactful insights. I enjoy exploring new technologies and delivering meaningful, data-driven solutions.
 
 ### 🌱 Current Focus
 * **Machine Learning:** Deep-diving into model architectures and predictive logic.
